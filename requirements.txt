@@ -4,3 +4,5 @@ numpy
 matplotlib
 mpl_finance
 xlrd
+plotly
+cufflinks
