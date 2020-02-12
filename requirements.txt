@@ -6,3 +6,4 @@ mpl_finance
 xlrd
 plotly
 cufflinks
+sklearn
