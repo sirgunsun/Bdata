@@ -8,3 +8,5 @@ plotly
 cufflinks
 sklearn
 seaborn
+graphviz
+Ipython
