@@ -10,3 +10,4 @@ sklearn
 seaborn
 graphviz
 Ipython
+svgfig
