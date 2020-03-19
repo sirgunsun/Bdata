@@ -8,5 +8,4 @@ plotly
 cufflinks
 sklearn
 seaborn
-graphviz
-svgfig
+python-graphviz
