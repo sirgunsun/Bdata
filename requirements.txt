@@ -9,5 +9,4 @@ cufflinks
 sklearn
 seaborn
 graphviz
-Ipython
 svgfig
